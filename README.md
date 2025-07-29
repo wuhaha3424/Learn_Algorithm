@@ -18,9 +18,9 @@
 Learn_Algorithm/
 ├── DMSXL.cpp              # 代码随想录合集
 ├── Hot100.cpp             # LeetCode Hot 100
-├── Threadpool.cpp         # 线程池简单实现（C++并发编程练习）
+├── Threadpool.cpp         # 线程池简单实现
 ├── CMakeLists.txt         # 构建配置
-├── README.md              # 本文件
+└── README.md              
 ```
 
 ---
@@ -32,7 +32,7 @@ git clone https://github.com/wuhaha3424/Learn_Algorithm.git
 cd Learn_Algorithm
 ```
 
-### 2. 编译运行（需安装 CMake 3.12+）
+### 2. 编译运行
 ```bash
 mkdir build && cd build
 cmake ..
