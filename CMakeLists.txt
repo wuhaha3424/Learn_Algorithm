@@ -14,6 +14,8 @@ project ("Graph")
 add_executable (Threadpool "Threadpool.cpp" )
 add_executable (DMSXL		"DMSXL.cpp" )
 add_executable (Hot100		"Hot100.cpp" )
+add_executable (sortMethod		"sortMethod.cpp" )
+
 
 
 
